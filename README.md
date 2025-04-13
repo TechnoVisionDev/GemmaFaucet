@@ -1,25 +1,25 @@
-# 🚰 FlopFaucet
+# 🚰 GemmaFaucet
 
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-81.9%25-yellow.svg)]()
 [![CSS](https://img.shields.io/badge/CSS-18.1%25-blue.svg)]()
-[![License](https://img.shields.io/github/license/TechnoVisionDev/FlopFaucet)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/TechnoVisionDev/FlopFaucet)](https://github.com/TechnoVisionDev/FlopFaucet/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/TechnoVisionDev/FlopFaucet)](https://github.com/TechnoVisionDev/FlopFaucet/pulls)
+[![License](https://img.shields.io/github/license/TechnoVisionDev/GemmaFaucet)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/TechnoVisionDev/GemmaFaucet)](https://github.com/TechnoVisionDev/GemmaFaucet/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/TechnoVisionDev/GemmaFaucet)](https://github.com/TechnoVisionDev/GemmaFaucet/pulls)
 
-_A web-based faucet for distributing free Flopcoin (FLOP) to the community! 🪙_
+_A web-based faucet for distributing free GEMMA to the community! 🪙_
 
 </div>
 
 ## 📝 Description
 
-FlopFaucet is a web application designed to distribute free Flopcoin (FLOP) to community members. This faucet serves as an entry point for new users to obtain their initial FLOP tokens and participate in the Flopcoin ecosystem.
+GemmaFaucet is a web application designed to distribute free GEMMA to community members. This faucet serves as an entry point for new users to obtain their initial GEMMA tokens and participate in the Gemma ecosystem.
 
 ## ✨ Features
 
 - 🌐 User-friendly web interface
-- 💧 Automated FLOP token distribution
+- 💧 Automated GEMMA token distribution
 - ⏱️ Cooldown system to prevent abuse
 - 🔒 Secure transaction handling
 - 📱 Responsive design for all devices
@@ -36,8 +36,8 @@ FlopFaucet is a web application designed to distribute free Flopcoin (FLOP) to c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/TechnoVisionDev/FlopFaucet.git
-cd FlopFaucet
+git clone https://github.com/TechnoVisionDev/GemmaFaucet.git
+cd GemmaFaucet
 ```
 
 2. Install dependencies:
@@ -72,9 +72,9 @@ FLOP_CONTRACT_ADDRESS=contract_address
 
 ## 🔧 Usage
 
-2. Input your Flopcoin wallet address.
+2. Input your Gemma wallet address.
 3. Complete captcha to verify you are a human.
-4. Click "Request FLOP" to receive coins.
+4. Click "Request GEMMA" to receive coins.
 5. Wait for the 1 hour cooldown period before requesting again.
 
 ## 🤝 Contributing
@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - GitHub: [@TechnoVisionDev](https://github.com/TechnoVisionDev)
-- Project Link: [https://github.com/TechnoVisionDev/FlopFaucet](https://github.com/TechnoVisionDev/FlopFaucet)
+- Project Link: [https://github.com/TechnoVisionDev/GemmaFaucet](https://github.com/TechnoVisionDev/GemmaFaucet)
 
 ---
 <div align="center">
